@@ -47,7 +47,7 @@ This dashboard solves these issues by offering real-time visual insights into fi
   Fix: Added fallback tooltips and image URLs where available.
 - Issue: Limited to 3 years of data (2022–2024) →
   Fix: Focused on short-term trend analysis.
-## 📸 Sample Screenshots
+## 📸 Dashboard Preview
 ### Financial Overview
 ![Financial Overview](https://github.com/user-attachments/assets/7b5ad334-9122-4b17-8f00-5489bf6736d9)
 ancial_overview.png)
